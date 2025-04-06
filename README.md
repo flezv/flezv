@@ -22,10 +22,6 @@
 
 ---
 
-### 📌 About Me
-
-
----
 
 ### 📊 GitHub Stats
 
