@@ -2,7 +2,13 @@
 
 <h3 align="center">Learning Frontend & Backend </h3>
 
-<p align="middle">
+
+<h3 align="left">Current Contacts</h3> 
+<a href="https://discord.gg/wyv8Fgm6r3" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="lsc" /></a>
+
+
+
+<p align="left">
 
 
 ### 💻 Current Skill Sets:
