@@ -12,7 +12,7 @@
 
 ---
 
-### 💻 Current Skill Sets
+### 💻 Current Skills:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -32,8 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flezv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flezv&theme=tokyonight" alt="GitHub Streak" />
-
-<img src="https://github-contribution-grid.vercel.app/api?username=flezv&theme=tokyonight" alt="GitHub Contribution Graph" />
 
 ---
 
