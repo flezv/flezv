@@ -6,7 +6,7 @@
 <h3 align="left">Current Contacts</h3> 
 <a href="https://discord.gg/wyv8Fgm6r3" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="lsc" /></a>
 
-
+---
 
 <p align="left">
 
@@ -21,7 +21,13 @@
 
 
 </p>
+---
 
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Forcng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 <!--
 **flezv/flezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
