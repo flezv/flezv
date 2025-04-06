@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Forcng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flezv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <!--
 **flezv/flezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
